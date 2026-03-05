@@ -23,7 +23,6 @@
 	</ItemGroup>
 	<ItemGroup>
 	  <Folder Include="Data\EntityConfigurations\" />
-	  <Folder Include="Data\Migrations\" />
 	  <Folder Include="Models\" />
 	  <Folder Include="DTOs\" />
 	  <Folder Include="DTOs\Auth\" />
